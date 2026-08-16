@@ -10,8 +10,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: Sean-OConnor-23-azure-ttt
-  AZURE_WEBAPP_NAME: Sean-OConnor-23-ttt-app
+  DOCKER_IMAGE_NAME: Sean-OConnor23-azure-ttt
+  AZURE_WEBAPP_NAME: Sean-OConnor23-ttt-app
   ###############################################
 
 jobs:
